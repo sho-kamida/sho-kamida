@@ -1,16 +1,27 @@
-## Hi there 👋
+## 挨拶
 
-<!--
-**sho-kamida/sho-kamida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+物理学の研究者を志し、純粋物理の理論探求に取り組んでいます。
+同時に、計算機科学を「物理現象を解き明かすための最強のツール」として活用しており、
+実装の場では情報系の大学に所属していることを活かして、計算工学的なアプローチを追求しています。
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sho-kamida&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 実装の仕方
+
+基本的に生成AIを活用し、コーディングの生産性を最大化しています。
+実装の際は、物理モデルに対する数式的な理解を深めた上で、計算時間と精度のトレードオフを検討します。
+AIにコードを出力させるだけでなく、「物理的な近似の妥当性」や「計算資源の最適化」、「納期」といった設計思想を
+自身で制御することを重視しています。
+
+## リポジトリ紹介
+
+現在、以下のプロジェクトを鋭意開発中です。完成次第、順次公開予定です。
+- 2D波紋シミュレータ: 波動方程式に基づいたシミュレーション。 (Rust/TypeScript, WebAssembly)
+- 1次元量子力学（トンネル効果）: シュレディンガー方程式を用いた数値計算モデルの実装。 (Rust/TypeScript, WebAssembly)
+
+コードの設計や品質については、過去の各リポジトリからご覧いただければ幸いです。
+
+現在は研究が主軸ですが、これまでに培ったRustの設計能力や数値計算の知見を活かし、
+実務の現場でさらに技術を磨いていきたいと考えています。
+実務経験はこれから積んでいく段階ですが、持ち前の理論的思考と実装への情熱で、
+いち早くチームに貢献することをお約束します。
